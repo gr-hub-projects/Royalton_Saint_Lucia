@@ -1,0 +1,155 @@
+{
+  "templates": {
+    "type": "JSON",
+    "content": [
+      {
+        "id": "148491403",
+        "Flight": "WS2113",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "09:05",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "146112613",
+        "Flight": "WS2685",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "14:45",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "148491023",
+        "Flight": "WS2113",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "09:05",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "148112453",
+        "Flight": "WS2251",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "10:40",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "146382363",
+        "Flight": "WS2221",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "09:05",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "147854983",
+        "Flight": "WS2251",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "10:40",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "146113283",
+        "Flight": "WS2113",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "09:05",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "147333813",
+        "Flight": "WS2251",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "10:40",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "146382643",
+        "Flight": "WS2221",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "09:05",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "147910923",
+        "Flight": "WS2251",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "10:40",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "146356183",
+        "Flight": "WS2251",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "10:40",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "148035313",
+        "Flight": "WS2113",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "09:05",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "146135013",
+        "Flight": "WS2685",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "14:45",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "146854222",
+        "Flight": "WS2685",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "14:45",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "146040672",
+        "Flight": "WS2113",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "09:05",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "147365713",
+        "Flight": "WS2153",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "12:05",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "148047051",
+        "Flight": "WS2221",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "09:05",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      },
+      {
+        "id": "148083532",
+        "Flight": "WS2113",
+        "PickupDate": "2026-02-03",
+        "PickupTime": "09:05",
+        "HotelName": "Grand Decameron Complex Bucerias, A Trademark All Inclusive",
+        "HotelNumber": 13059
+      }
+    ],
+    "source": {
+      "data_source": "Google Sheets (Private)",
+      "update_frequency": "Automated"
+    }
+  }
+}
